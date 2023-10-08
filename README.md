@@ -19,7 +19,8 @@ Why ClassySell?
 
 ClassySell was developed with the specific needs of students in mind, making it the ideal platform for simplifying the process of decluttering spaces, finding affordable study materials, and enhancing the overall student experience.
 
-Join the ClassySell community today and make student life more convenient, cost-effective, and eco-friendly.
+Join the ClassySell community today and make student life more convenient, cost-effective, and eco-friendly
+
 <img width="267" alt="Screenshot 2023-10-08 165122" src="https://github.com/muaadh2097/classySell/assets/125466531/bc81d9cc-d817-4ee4-bf03-3c78e475cbba">
 <img width="270" alt="Screenshot 2023-10-08 165832" src="https://github.com/muaadh2097/classySell/assets/125466531/6452ac15-dc22-4796-b5d2-9b936ce61de3">
 <img width="270" alt="Screenshot 2023-10-08 165815" src="https://github.com/muaadh2097/classySell/assets/125466531/bdc5b5e0-bf89-4bd5-9bc8-30adf557791a">
